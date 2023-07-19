@@ -1,4 +1,4 @@
-# Kenet Ortiz
+# Anthony Taylor
 
 # Main of the program, controls the loop of the program
 def main():
