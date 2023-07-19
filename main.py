@@ -1,4 +1,4 @@
-# Anthony Taylor
+# anthony taylor
 
 # Main of the program, controls the loop of the program
 new_password = ''
